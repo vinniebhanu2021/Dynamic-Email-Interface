@@ -1,10 +1,4 @@
-# Free Responsive HTML Email Template
 
-Sometimes all you want is a really simple responsive HTML email template with a clear call-to-action button. Here it is.
-
-[See live preview](http://leemunroe.github.io/responsive-html-email-template/email.html).
-
-<img src="https://github.com/leemunroe/responsive-html-email-template/assets/15963/29595188-d4f3-4236-877d-6488c159140d" alt="Simple HTML Email Template" width="500">
 
 ## Inline your CSS before sending
 
